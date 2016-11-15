@@ -1,0 +1,5 @@
+F:\VisualStudio\C#\01\booleanos\booleanos\bin\Debug\booleanos.exe.config
+F:\VisualStudio\C#\01\booleanos\booleanos\bin\Debug\booleanos.exe
+F:\VisualStudio\C#\01\booleanos\booleanos\bin\Debug\booleanos.pdb
+F:\VisualStudio\C#\01\booleanos\booleanos\obj\Debug\booleanos.exe
+F:\VisualStudio\C#\01\booleanos\booleanos\obj\Debug\booleanos.pdb
